@@ -4,6 +4,7 @@ Inspired by my difficulty quickly making maps in python, I'm compiling examples 
 The notebook defines two functions and shows how to manipulate data for them:
 
 A) easy_map(): Given a list of coordinate tuples, plot markers on a centered map.
+
 <img src="output/easy_map_example.png" width=250 title="Easy Map">
 
 B) map_timestamped_GeoJson(): makes a TimestampedGeoJson map, using the GeoJSON format. 
